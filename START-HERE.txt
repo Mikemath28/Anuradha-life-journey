@@ -1,0 +1,27 @@
+ANURADHA — A JOURNEY THROUGH LIFE
+=================================
+
+This folder is ready to upload as a GitHub project.
+
+FASTEST START
+-------------
+1. Open a terminal in this folder.
+2. Run: npm install
+3. Run: npm run dev
+
+TO PUT ON GITHUB
+----------------
+1. Create an empty GitHub repository.
+2. Upload the contents of this folder, or use the git commands in README.md.
+3. For GitHub Pages, go to Settings > Pages and choose GitHub Actions.
+
+PROJECT STATUS
+--------------
+- Production build tested successfully.
+- npm audit: 0 vulnerabilities at the time this package was prepared.
+- 29 unique photos included.
+- All 29 unique photos appear in the full gallery and memory mosaic.
+- Exact duplicate uploads were included only once.
+
+Read README.md for full instructions.
+Read PHOTO-MAP.md to see where every image is used.
